@@ -6,6 +6,7 @@ function App() {
       <h1>React Context Project</h1>
     </div>
   );
+  
 }
 
 export default App;
