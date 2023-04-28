@@ -25,4 +25,5 @@ ReactDOM.render(
     </StylesProvider>
   </React.StrictMode>,
   document.getElementById('root')
+  
 );
